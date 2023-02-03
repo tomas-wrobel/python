@@ -2,6 +2,8 @@
 
 Python (dále jen "Krajta") je programovací jazyk *rebelský* čili nerespektuje rodinu C-Like. Je tu tedy mnoho odlišností od "normálních" programovacích jazyků.
 
+Jedná se o nejrychlejší jazyk co kdy byl vytvořen :)
+
 ## Komentář
 Cokoli, co je napsáno za hashtagem (#) je ignorováno. Říká se tomu komentář
 
